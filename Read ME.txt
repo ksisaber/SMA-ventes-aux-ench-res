@@ -1,0 +1,9 @@
+Le projet contient 2 parties :
+PART 1 
+PART 2
+Et aussi le rapport du projet.
+
+Chaque partie contient des dossiers, pour accéder au source code :
+src\main\java\org\example
+
+Bonne exploration de notre moderne projet.
